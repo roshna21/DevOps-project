@@ -1,0 +1,14 @@
+[
+  { "name": "Aarav Sharma", "usn": "CIT2023001", "course": "Computer Science Engineering", "semester": 3 },
+  { "name": "Neha Patel", "usn": "CIT2023002", "course": "Computer Science Engineering", "semester": 3 },
+  { "name": "Rohit Kumar", "usn": "CIT2023003", "course": "Electronics and Communication Engineering", "semester": 4 },
+  { "name": "Sana Menon", "usn": "CIT2023004", "course": "Data Science", "semester": 2 },
+  { "name": "Vikram Singh", "usn": "CIT2023005", "course": "Mechanical Engineering", "semester": 5 },
+  { "name": "Priya Iyer", "usn": "CIT2023006", "course": "AI/ML", "semester": 4 },
+  { "name": "Karan Verma", "usn": "CIT2023007", "course": "Cyber Security", "semester": 6 },
+  { "name": "Megha Rao", "usn": "CIT2023008", "course": "Electronics and Communication Engineering", "semester": 6 },
+  { "name": "Anil Joshi", "usn": "CIT2023009", "course": "Computer Science Engineering", "semester": 7 },
+  { "name": "Ritu Gupta", "usn": "CIT2023010", "course": "Data Science", "semester": 1 }
+]
+
+
